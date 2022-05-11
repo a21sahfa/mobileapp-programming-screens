@@ -3,7 +3,10 @@
 
 **Skriv din rapport här!**
 
-_Du kan ta bort all text som finns sedan tidigare_.
+-började med att forka appen screens från github.
+-gjorde en second activity
+-jag la en knapp på min second activity 
+- jag la till data på och skrev kod på knappen om man trycker på knappen så kommer det en tjenaa message
 
 ## Följande grundsyn gäller dugga-svar:
 
